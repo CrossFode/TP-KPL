@@ -1,0 +1,10 @@
+C:\Users\fauzan\Desktop\KPL\TP3KPLButton\TP3KPLButton\bin\Debug\TP3KPLButton.exe.config
+C:\Users\fauzan\Desktop\KPL\TP3KPLButton\TP3KPLButton\bin\Debug\TP3KPLButton.exe
+C:\Users\fauzan\Desktop\KPL\TP3KPLButton\TP3KPLButton\bin\Debug\TP3KPLButton.pdb
+C:\Users\fauzan\Desktop\KPL\TP3KPLButton\TP3KPLButton\obj\Debug\TP3KPLButton.csproj.AssemblyReference.cache
+C:\Users\fauzan\Desktop\KPL\TP3KPLButton\TP3KPLButton\obj\Debug\TP3KPLButton.Form1.resources
+C:\Users\fauzan\Desktop\KPL\TP3KPLButton\TP3KPLButton\obj\Debug\TP3KPLButton.Properties.Resources.resources
+C:\Users\fauzan\Desktop\KPL\TP3KPLButton\TP3KPLButton\obj\Debug\TP3KPLButton.csproj.GenerateResource.cache
+C:\Users\fauzan\Desktop\KPL\TP3KPLButton\TP3KPLButton\obj\Debug\TP3KPLButton.csproj.CoreCompileInputs.cache
+C:\Users\fauzan\Desktop\KPL\TP3KPLButton\TP3KPLButton\obj\Debug\TP3KPLButton.exe
+C:\Users\fauzan\Desktop\KPL\TP3KPLButton\TP3KPLButton\obj\Debug\TP3KPLButton.pdb
